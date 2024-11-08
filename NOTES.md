@@ -40,6 +40,5 @@ This practice ensured that new features met requirements, reduced bugs, and main
 
 2. Pair Programming is where developers collaborate closely on the same code. These practices have brought clear benefits, like better code quality, and knowledge sharing among team members.It helps new developers get up to speed and encouraged collaborative problem-solving.
 
-3. Continuous Integration/Continuous Deployment (CI/CD)
-   CI/CD pipelines for automated testing and deployment, adopting agile methodologies for rapid development cycles.
+3. Continuous Integration/Continuous Deployment CI/CD pipelines for automated testing and deployment, adopting agile methodologies for rapid development cycles.
    This helps in shipping functionality frequently to deliver value to users quickly, gather feedback, and iterate efficiently. This approach helps maintain momentum and adapt to user needs.
