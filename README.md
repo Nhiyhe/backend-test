@@ -19,21 +19,13 @@ npm (Node Package Manager)
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone <repository_url>
-Change into the project directory:
+### Steps
 
-bash
-Copy code
-cd <project_directory>
-Install dependencies:
-
-bash
-Copy code
-npm install
-Configuration
-The application is set to communicate with an API at http://localhost:3001/api. To change this base URL, edit the URL in the createApiClient function in src/client/apiClient.ts.
+1. Git clone the repository `git clone https://github.com/Nhiyhe/backend-test.git`
+2. `cd` into the backend-test directory
+3. run `npm install` to install dependencies
+4. run `npm start`
+5. run `npm run test` to run the test
 
 ## Running the Application
 
