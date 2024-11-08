@@ -1,4 +1,4 @@
-# Node.js API Client Application
+# Node.js Client Service
 
 ## Overview
 
