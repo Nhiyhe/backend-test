@@ -1,4 +1,4 @@
-TASK 1
+# TASK 1
 
 1. Data Type Optimisation
    Currently all the Fields use generic varchar data types and lack constraints beyond primary key definition.
@@ -32,7 +32,7 @@ TASK 1
 
 - Consider standardising field names across tables (e.g., use user_id in bookings instead of user, parc_id instead of parc), making relationships clearer and easier to maintain.
 
-TASK 2
+# TASK 2
 
 1. Test Driven Development (TDD) is a software development approach where tests are written before the code itself. The process involves writing a failing test, developing code to pass the test, and then refactoring the code while keeping tests green.
 
@@ -40,6 +40,6 @@ This practice ensured that new features met requirements, reduced bugs, and main
 
 2. Pair Programming is where developers collaborate closely on the same code. These practices have brought clear benefits, like better code quality, and knowledge sharing among team members.It helps new developers get up to speed and encouraged collaborative problem-solving.
 
-3.Continuous Integration/Continuous Deployment (CI/CD)
-CI/CD pipelines for automated testing and deployment, adopting agile methodologies for rapid development cycles.
-This helps in shipping functionality frequently to deliver value to users quickly, gather feedback, and iterate efficiently. This approach helps maintain momentum and adapt to user needs.
+3. Continuous Integration/Continuous Deployment (CI/CD)
+   CI/CD pipelines for automated testing and deployment, adopting agile methodologies for rapid development cycles.
+   This helps in shipping functionality frequently to deliver value to users quickly, gather feedback, and iterate efficiently. This approach helps maintain momentum and adapt to user needs.
